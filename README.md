@@ -3,12 +3,7 @@ A full description is available at the site where the data was obtained: http://
 
 # File with R code "run_analysis.R" perform 5 following steps:
 
-1. Merging the training and the test sets to create one data set.
-Reading files
-Reading trainings tables
-Reading testing tables
-Reading feature vector
-Reading activity labels
+1.Merging the training and the test sets to create one data set: (Reading files, Reading trainings tables, Reading testing tables, Reading feature vector, Reading activity labels)
 1.2 Assigning column names
 1.3 Merging all data in one set
 
